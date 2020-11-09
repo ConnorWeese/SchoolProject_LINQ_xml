@@ -1,0 +1,232 @@
+﻿Subject,CourseCode,Class Nbr,Course Title,Days,Start Time,End Time,Location,Enrl Cap,Classroom,Inst Last Nm
+ASU,101,13023,The ASU Experience,T,3:00 PM,3:50 PM,TEMPE,19,BYENG361,Staff
+ASU,101,30641,The ASU Experience,T,10:30 AM,11:20 AM,TEMPE,19,BYENG361,Staff
+ASU,101,31622,The ASU Experience,TH,3:00 PM,3:50 PM,TEMPE,19,BYENG361,Staff
+ASU,101,31623,Special Topics,TH,10:30 AM,11:20 AM,TEMPE,19,BYENG361,Staff
+CPI,101,12069,Introduction to Informatics,TTh,9:00 AM,10:15 AM,TEMPE,99,LSE104,hansford
+CPI,111,19589,Game Development I,MWF,9:40 AM,10:30 AM,TEMPE,51,BYENGM1-11,Yoshi
+CPI,200,16390,Math Foundation of Informatics,TTh,12:00 PM,1:15 PM,TEMPE,56,BYAC150,hansford
+CPI,211,12302,Game Development II,MW,3:05 PM,4:20 PM,TEMPE,50,BYENGM1-11,Selgrad
+CPI,221,18204,Advan Obj Orient Prin w/Java,MWF,11:50 AM,12:40 PM,TEMPE,66,CPCOM213,Selgrad
+CPI,321,12662,Fundamentals of Game Art,Th,4:50 PM,7:35 PM,TEMPE,50,BYENGM1-11,yoshi
+CPI,350,14056,Eval of Informatics Systems,TTh,1:30 PM,2:45 PM,TEMPE,80,DISCVRY350,atkinson
+CPI,411,17633,Civic informatics,TTh,10:30 AM,11:45 AM,TEMPE,51,BYENGM1-11,yoshi
+CPI,441,12597,Graphics for Games,T,4:50 PM,7:35 PM,TEMPE,30,BYENGM1-11,Yoshi
+CSE,100,11257,Gaming Capstone,F,11:50 AM,12:40 PM,TEMPE,30,COORL1-38,Staff
+CSE,100,22208,Informatics Capstone I,F,2:00 PM,2:50 PM,TEMPE,25,COORL1-50,Feng
+CSE,100,22209,Informatics Capstone I,T,9:00 AM,9:50 AM,TEMPE,25,COORL1-30,Feng
+CSE,100,11241,Informatics Capstone II,W,11:50 AM,12:40 PM,TEMPE,30,COORL1-38,Staff
+CSE,100,11320,Prin of Programming with C++,Th,10:30 AM,11:20 AM,TEMPE,25,COORL1-38,Staff
+CSE,100,15635,Prin of Programming with C++,W,12:55 PM,1:45 PM,TEMPE,25,COORL1-38,Feng
+CSE,100,22207,Prin of Programming with C++,W,2:00 PM,2:50 PM,TEMPE,25,COORL1-50,Feng
+CSE,100,11226,Prin of Programming with C++,MWF,8:35 AM,9:25 AM,TEMPE,175,SCOB210,Possible Kevin
+CSE,100,13822,Prin of Programming with C++,MWF,10:45 AM,11:35 AM,TEMPE,125,CDN68,Feng
+CSE,100,16391,Prin of Programming with C++,Th,9:00 AM,9:50 AM,TEMPE,25,COORL1-30,Feng
+CSE,100,17628,Prin of Programming with C++,F,12:55 PM,1:45 PM,TEMPE,25,COORL1-38,Feng
+CSE,100,16392,Prin of Programming with C++,M,12:55 PM,1:45 PM,TEMPE,25,COORL1-38,Feng
+CSE,100,22206,Prin of Programming with C++,M,2:00 PM,2:50 PM,TEMPE,30,COORL1-50,Staff
+CSE,100,11229,Prin of Programming with C++,M,11:50 AM,12:40 PM,TEMPE,30,COORL1-38,Staff
+CSE,100,11265,Prin of Programming with C++,T,10:30 AM,11:20 AM,TEMPE,30,COORL1-38,Staff
+CSE,110,29097,Prin of Programming with C++,F,8:35 AM,9:25 AM,TEMPE,35,COORL1-38,miller
+CSE,110,29096,Prin of Programming with C++,W,8:35 AM,9:25 AM,TEMPE,35,COORL1-38,miller
+CSE,110,11321,Prin of Programming with C++,T,4:30 PM,5:20 PM,TEMPE,35,COORL1-38,Staff
+CSE,110,29092,Prin of Programming with C++,M,10:45 AM,11:35 AM,TEMPE,35,COORL1-38,miller
+CSE,110,29109,Principles of Programming,T,1:00 PM,3:30 PM,TEMPE,69,BYENG209,Miller
+CSE,110,11335,Principles of Programming,Th,4:30 PM,5:20 PM,TEMPE,35,COORL1-38,Staff
+CSE,110,29104,Principles of Programming,Th,9:00 AM,9:50 AM,TEMPE,35,COORL1-50,faye
+CSE,110,29099,Principles of Programming,TTh,12:00 PM,1:15 PM,TEMPE,245,COOR170,faye
+CSE,110,29106,Principles of Programming,Th,4:30 PM,5:20 PM,TEMPE,35,COORL1-50,faye
+CSE,110,16393,Principles of Programming,MWF,3:05 PM,3:55 PM,TEMPE,245,MUR101,miller
+CSE,110,15650,Principles of Programming,Th,9:00 AM,9:50 AM,TEMPE,35,COORL1-38,Staff
+CSE,110,17635,Principles of Programming,M,2:00 PM,2:50 PM,TEMPE,35,COORL1-38,Staff
+CSE,110,29095,Principles of Programming,M,8:35 AM,9:25 AM,TEMPE,35,COORL1-38,miller
+CSE,110,19590,Principles of Programming,T,9:00 AM,9:50 AM,TEMPE,35,COORL1-38,Staff
+CSE,110,29094,Principles of Programming,F,10:45 AM,11:35 AM,TEMPE,35,COORL1-38,miller
+CSE,110,29101,Principles of Programming,T,3:00 PM,3:50 PM,TEMPE,35,COORL1-38,faye
+CSE,110,29107,Principles of Programming,Th,1:30 PM,2:20 PM,TEMPE,35,COORL1-38,faye
+CSE,110,11232,Principles of Programming,MWF,8:35 AM,9:25 AM,TEMPE,245,COOR170,Possible Kevin
+CSE,110,22210,Principles of Programming,F,2:00 PM,2:50 PM,TEMPE,35,COORL1-38,Staff
+CSE,110,29105,Principles of Programming,T,4:30 PM,5:20 PM,TEMPE,35,COORL1-50,faye
+CSE,110,29093,Principles of Programming,W,10:45 AM,11:35 AM,TEMPE,35,COORL1-38,miller
+CSE,110,29103,Principles of Programming,T,9:00 AM,9:50 AM,TEMPE,35,COORL1-50,faye
+CSE,110,11251,Principles of Programming,W,2:00 PM,2:50 PM,TEMPE,35,COORL1-38,Staff
+CSE,110,29102,Principles of Programming,Th,3:00 PM,3:50 PM,TEMPE,35,COORL1-38,faye
+CSE,110,29098,Principles of Programming,T,1:30 PM,2:20 PM,TEMPE,35,COORL1-38,miller
+CSE,120,11224,Principles of Programming,TTh,12:00 PM,1:15 PM,TEMPE,36,ECGG224,Hartin
+CSE,120,11295,Principles of Programming,TTh,1:30 PM,2:45 PM,TEMPE,36,ECGG224,Millman
+CSE,120,11356,Principles of Programming,MW,3:05 PM,4:20 PM,TEMPE,36,ECGG224,Matar
+CSE,120,13386,Principles of Programming,TTh,9:00 AM,10:15 AM,TEMPE,47,ECGG224,Millman
+CSE,120,15568,Principles of Programming,TTh,3:00 PM,4:15 PM,TEMPE,43,ECGG224,Goryll
+CSE,120,17577,Principles of Programming,TTh,7:30 AM,8:45 AM,TEMPE,43,ECGG224,Ewaisha
+CSE,120,20447,Principles of Programming,MW,4:35 PM,5:50 PM,TEMPE,36,ECGG224,Matar
+CSE,120,22050,Object-Oriented Program & Data,TTh,10:30 AM,11:45 AM,TEMPE,42,ECGG224,Millman
+CSE,120,28713,Object-Oriented Program & Data,TTh,4:30 PM,5:45 PM,TEMPE,36,ECGG224,Staff
+CSE,205,11343,Object-Oriented Program & Data,TTh,10:30 AM,11:45 AM,ICOURSE,150,EDC117,faye
+CSE,205,15990,Object-Oriented Program & Data,MW,4:35 PM,5:50 PM,TEMPE,185,PSF166,mutsumi
+CSE,205,20461,Object-Oriented Program & Data,TTh,1:30 PM,2:45 PM,TEMPE,150,LSE104,faye
+CSE,205,16400,Object-Oriented Program & Data,MWF,11:50 AM,12:40 PM,TEMPE,185,CDN60,feng
+CSE,205,11333,Programming for Computer Engr,TTh,4:30 PM,5:45 PM,TEMPE,185,EDC117,miller
+CSE,205,11261,Computer Org/Assemb Lang Prog,MWF,10:45 AM,11:35 AM,TEMPE,185,LSE104,mutsumi
+CSE,205,12775,Computer Org/Assemb Lang Prog,MWF,8:35 AM,9:25 AM,TEMPE,185,LSE104,feng
+CSE,220,11300,Intro to Programming Languages,TTh,10:30 AM,11:45 AM,TEMPE,128,CAVC351,Yalin Wang
+CSE,230,11217,Intro to Programming Languages,MWF,8:35 AM,9:25 AM,TEMPE,300,LSA191,calliss
+CSE,230,15654,Logic in Computer Science,MW,3:05 PM,4:20 PM,TEMPE,200,PSF166,mutsumi
+CSE,240,13806,Logic in Computer Science,TTh,4:30 PM,5:45 PM,TEMPE,230,PSF173,chen
+CSE,240,30957,Logic in Computer Science,TTh,1:30 PM,2:45 PM,TEMPE,135,COORL1-74,Chen
+CSE,240,11262,Logic in Computer Science,MWF,2:00 PM,2:50 PM,TEMPE,245,COOR170,selgrad
+CSE,259,21266,Computing Ethics,M,10:45 AM,11:35 AM,TEMPE,35,WXLRA111,Steve Osburn
+CSE,259,21243,Data Structures and Algorithms,MW,12:15 PM,1:30 PM,TEMPE,69,BYAC110,Steve Osburn
+CSE,259,21267,Data Structures and Algorithms,W,10:45 AM,11:35 AM,TEMPE,34,WXLRA111,Steve Osburn
+CSE,259,22355,Data Structures and Algorithms,F,10:45 AM,11:35 AM,TEMPE,22,MVHALA121,Steve Osburn
+CSE,310,19683,Data Structures and Algorithms,Th,9:00 AM,9:50 AM,ICOURSE,35,BYAC240,xue
+CSE,310,27283,Data Structures and Algorithms,T,10:30 AM,11:20 AM,TEMPE,35,BYAC240,xue
+CSE,310,23306,Data Structures and Algorithms,MWF,11:50 AM,12:40 PM,TEMPE,140,PSH152,yezhou yang
+CSE,310,29114,Data Structures and Algorithms,TTh,4:30 PM,5:45 PM,TEMPE,140,SCOB228,xue
+CSE,310,19682,Data Structures and Algorithms,F,3:05 PM,3:55 PM,TEMPE,35,BYAC240,xue
+CSE,310,23309,Data Structures and Algorithms,M,4:10 PM,5:00 PM,TEMPE,35,BYAC240,xue
+CSE,310,11724,Data Structures and Algorithms,TTh,6:00 PM,7:15 PM,TEMPE,140,PSH153,xue
+CSE,310,19687,Data Structures and Algorithms,M,10:45 AM,11:35 AM,TEMPE,35,WXLRA203,xue
+CSE,310,23307,Data Structures and Algorithms,Th,10:30 AM,11:20 AM,TEMPE,35,BYAC240,xue
+CSE,310,19688,Data Structures and Algorithms,W,10:45 AM,11:35 AM,TEMPE,35,WXLRA203,xue
+CSE,310,23310,Design/Syn Digital Hardware,W,4:10 PM,5:00 PM,TEMPE,35,BYAC240,yezhou yang
+CSE,310,19684,Design/Syn Digital Hardware,T,9:00 AM,9:50 AM,TEMPE,35,BYAC240,xue
+CSE,310,23308,Design/Syn Digital Hardware,F,4:10 PM,5:00 PM,TEMPE,35,BYAC240,yezhou yang
+CSE,310,19685,Embedded Microprocessor System,W,3:05 PM,3:55 PM,TEMPE,35,BYAC240,xue
+CSE,310,19686,Embedded Microprocessor System,M,3:05 PM,3:55 PM,TEMPE,35,BYAC240,xue
+CSE,320,11274,Embedded Microprocessor System,TTh,4:30 PM,5:45 PM,TEMPE,69,BYAC150,FENGBO
+CSE,320,21374,Operating Systems,Th,1:30 PM,2:20 PM,TEMPE,39,BYAC190,FENGBO
+CSE,320,21373,Operating Systems,T,1:30 PM,2:20 PM,TEMPE,30,BYAC190,FENGBO
+CSE,325,19690,Operating Systems,T,3:00 PM,3:50 PM,TEMPE,35,BYAC190,Meuth
+CSE,325,19691,Operating Systems,Th,3:00 PM,3:50 PM,TEMPE,35,BYAC190,Meuth
+CSE,325,18820,Operating Systems,MW,10:45 AM,12:00 PM,TEMPE,70,CAVC359,Meuth
+CSE,330,21168,Operating Systems,T,1:30 PM,2:20 PM,TEMPE,42,BYAC260,DASGUPTA
+CSE,330,20876,Operating Systems,M,3:05 PM,3:55 PM,TEMPE,30,BYAC260,Ayan
+CSE,330,21169,Operating Systems,Th,1:30 PM,2:20 PM,TEMPE,42,BYAC260,DASGUPTA
+CSE,330,20872,Operating Systems,M,2:00 PM,2:50 PM,TEMPE,43,BYAC260,ZHAO
+CSE,330,19457,Operating Systems,MW,10:45 AM,12:00 PM,TEMPE,128,COORL1-20,DASGUPTA
+CSE,330,11269,Operating Systems,TTh,4:30 PM,5:45 PM,TEMPE,128,COORL1-20,ZHAO
+CSE,330,20877,Operating Systems,W,3:05 PM,3:55 PM,TEMPE,30,BYAC260,Ayan
+CSE,330,21171,Operating Systems,F,2:00 PM,2:50 PM,TEMPE,43,BYAC260,DASGUPTA
+CSE,330,20875,Operating Systems,Th,6:00 PM,6:50 PM,TEMPE,30,COORL1-84,Ayan
+CSE,330,20878,Princ of Mobile App Dev,F,3:05 PM,3:55 PM,TEMPE,30,BYAC260,Ayan
+CSE,330,13028,Principles of Programming Lang,MWF,11:50 AM,12:40 PM,TEMPE,128,CDN68,Ayan
+CSE,330,20874,Principles of Programming Lang,T,6:00 PM,6:50 PM,TEMPE,42,BYAC190,ZHAO
+CSE,330,20873,Principles of Programming Lang,W,2:00 PM,2:50 PM,TEMPE,43,BYAC260,ZHAO
+CSE,335,21044,Principles of Programming Lang,MWF,9:40 AM,10:30 AM,TEMPE,150,PSH152,janaka
+CSE,340,19695,Principles of Programming Lang,M,11:50 AM,12:40 PM,TEMPE,43,BYENGM1-09,Bazzi
+CSE,340,11315,Principles of Programming Lang,MWF,12:55 PM,1:45 PM,TEMPE,175,PSH150,Bazzi
+CSE,340,29115,Principles of Programming Lang,T,4:30 PM,5:20 PM,TEMPE,35,BYAC260,Bazzi
+CSE,340,14190,Principles of Programming Lang,MWF,2:00 PM,2:50 PM,TEMPE,169,PSH152,Bazzi
+CSE,340,19696,Principles of Programming Lang,M,12:55 PM,1:45 PM,TEMPE,35,BYAC270,Bazzi
+CSE,340,19692,Principles of Programming Lang,Th,4:30 PM,5:20 PM,TEMPE,42,BYAC260,Bazzi
+CSE,340,19693,Intro Theoretical Computer Sci,W,11:50 AM,12:40 PM,TEMPE,42,BYENGM1-09,Bazzi
+CSE,340,19698,Intro Theoretical Computer Sci,F,12:55 PM,1:45 PM,TEMPE,35,BYAC270,Bazzi
+CSE,340,19697,Intro Theoretical Computer Sci,W,12:55 PM,1:45 PM,TEMPE,35,BYAC270,Bazzi
+CSE,355,19708,Intro Theoretical Computer Sci,M,3:05 PM,3:55 PM,TEMPE,33,BYAC190,Ben Amor
+CSE,355,19705,Intro Theoretical Computer Sci,M,2:00 PM,2:50 PM,TEMPE,31,BYAC190,Fainekos
+CSE,355,19702,Intro Theoretical Computer Sci,F,9:40 AM,10:30 AM,TEMPE,42,BYAC190,colbourn
+CSE,355,19707,Intro Theoretical Computer Sci,F,2:00 PM,2:50 PM,TEMPE,32,BYAC190,Ben Amor
+CSE,355,19710,Intro Theoretical Computer Sci,F,3:05 PM,3:55 PM,TEMPE,29,BYAC190,Ben Amor
+CSE,355,14505,Intro Theoretical Computer Sci,TTh,9:00 AM,10:15 AM,TEMPE,128,COORL1-20,colbourn
+CSE,355,19703,Intro Theoretical Computer Sci,T,12:00 PM,12:50 PM,TEMPE,36,BYAC190,Fainekos
+CSE,355,23314,Intro Theoretical Computer Sci,MW,4:35 PM,5:50 PM,TEMPE,128,COORL1-20,Fainekos
+CSE,355,19701,Intro Theoretical Computer Sci,W,9:40 AM,10:30 AM,TEMPE,42,BYAC190,colbourn
+CSE,355,19709,Intro Theoretical Computer Sci,W,3:05 PM,3:55 PM,TEMPE,34,BYAC190,Ben Amor
+CSE,355,19706,Intro Theoretical Computer Sci,W,2:00 PM,2:50 PM,TEMPE,28,BYAC190,Fainekos
+CSE,355,19704,Intro Theoretical Computer Sci,Th,12:00 PM,12:50 PM,TEMPE,34,BYAC190,Fainekos
+CSE,355,19700,Intro to Software Engineering,M,9:40 AM,10:30 AM,TEMPE,42,BYAC190,colbourn
+CSE,355,23315,Intro to Software Engineering,TTh,6:00 PM,7:15 PM,TEMPE,128,COORL1-20,Ben Amor
+CSE,360,11301,Information Assurance,M,3:05 PM,4:20 PM,TEMPE,198,CDN60,callis
+CSE,360,26013,Multimedia Information Systems,W,3:05 PM,4:20 PM,TEMPE,198,CDN60,callis
+CSE,365,21120,Database Management,TTh,10:30 AM,11:45 AM,TEMPE,140,PSH153,fish wang
+CSE,365,30853,Computer Architecture I,TTh,3:00 PM,4:15 PM,TEMPE,100,LIBC12,fish wang
+CSE,408,21593,Systems Capstone Project I,TTh,12:00 PM,1:15 PM,TEMPE,142,SCOB228,Staff
+CSE,412,21128,Systems Capstone Project I,MW,9:00 AM,10:15 AM,TEMPE,175,PSH150,sarwat
+CSE,420,11268,Systems Capstone Project I,MWF,2:00 PM,2:50 PM,TEMPE,124,COOR174,aviral
+CSE,423,13030,Systems Capstone Project I,Th,10:30 AM,11:20 AM,TEMPE,65,BYENGM1-09,Meuth
+CSE,423,13030,Systems Capstone Project II,T,12:00 AM,12:00 AM,TEMPE,65,INTRT,Meuth
+CSE,424,11212,Systems Capstone Project II,T,9:00 AM,10:15 AM,TEMPE,65,BYENGM1-09,meuth
+CSE,424,11212,Systems Capstone Project II,T,12:00 AM,12:00 AM,TEMPE,65,INTRT,Meuth
+CSE,434,11223,Systems Capstone Project II,MW,9:00 AM,10:15 AM,TEMPE,80,Cavc359,syrotiuk
+CSE,445,11326,Computer Networks,MWF,12:55 PM,1:45 PM,TEMPE,150,SCOB210,janaka
+CSE,446,14506,Distributed Software Developmt,TTh,12:00 PM,1:15 PM,TEMPE,100,LIBC10,chen
+CSE,450,21121,Software Integration and Engr,TTh,9:00 AM,10:15 AM,TEMPE,132,COORL1-74,Richa
+CSE,460,11725,Design&Analysis of Algorithms,MW,4:35 PM,5:50 PM,TEMPE,100,LIBC12,Sarjoughian
+CSE,463,14179,Software Analysis and Design,TTh,4:30 PM,5:45 PM,TEMPE,325,BAC116,Atkinson
+CSE,464,21784,Intro Human Computer Interactn,MWF,8:35 AM,9:25 AM,TEMPE,150,PSH152,janaka
+CSE,469,14518,Software QA and Testing,TTh,3:00 PM,4:15 PM,TEMPE,80,COOR120,tiffany bao
+CSE,470,20425,Computer and Network Forensics,MW,10:45 AM,12:00 PM,TEMPE,80,BYAC110,hansford
+CSE,471,13070,Computer Graphics,MW,6:00 PM,7:15 PM,TEMPE,140,PSH153,Gil
+CSE,485,20117,Intro Artificial Intelligence,M,2:00 PM,2:50 PM,TEMPE,50,BYAC270,helen
+CSE,485,23019,Computer Sci Capstone Proj I,Th,9:00 AM,9:50 AM,TEMPE,55,BYAC110,helen
+CSE,485,30990,Computer Sci Capstone Proj I,W,9:40 AM,10:30 AM,TEMPE,55,BYAC270,helen
+CSE,485,13081,Computer Sci Capstone Proj I,T,9:00 AM,9:50 AM,TEMPE,50,BYAC110,helen
+CSE,485,20118,Computer Sci Capstone Proj I,W,2:00 PM,2:50 PM,TEMPE,50,BYAC270,helen
+CSE,485,20119,Computer Sci Capstone Proj I,F,2:00 PM,2:50 PM,TEMPE,50,BYAC270,helen
+CSE,485,26090,Computer Sci Capstone Proj I,F,12:15 PM,1:05 PM,TEMPE,45,BYENGM1-09,helen
+CSE,485,30991,Computer Sci Capstone Proj I,F,9:40 AM,10:30 AM,TEMPE,50,BYAC270,helen
+CSE,486,17141,Computer Sci Capstone Proj I,W,2:00 PM,2:50 PM,TEMPE,55,BYAC150,helen
+CSE,486,19979,Computer Sci Capstone Proj I,M,2:00 PM,2:50 PM,TEMPE,55,BYAC150,helen
+CSE,486,19293,Computer Sci Capstone Proj I,Th,9:00 AM,9:50 AM,TEMPE,55,BYAC150,helen
+CSE,486,20121,Computer Sci Capstone Proj I,M,9:40 AM,10:30 AM,TEMPE,40,BYAC270,helen
+CSE,486,20120,Computer Sci Capstone Proj II,T,9:00 AM,9:50 AM,TEMPE,55,BYAC150,helen
+CSE,486,11222,Computer Sci Capstone Proj II,F,2:00 PM,2:50 PM,TEMPE,50,BYAC150,helen
+CSE,510,13029,Computer Sci Capstone Proj II,MW,3:05 PM,4:20 PM,TEMPE,100,COORL1-74,candan
+CSE,512,21124,Computer Sci Capstone Proj II,F,3:05 PM,5:35 PM,TEMPE,132,COORL1-74,sarwat
+CSE,520,21131,Computer Sci Capstone Proj II,MWF,12:55 PM,1:45 PM,TEMPE,115,COORL1-20,lee
+CSE,530,32110,Embed Operating Sys Internals,MW,4:35 PM,5:50 PM,TEMPE,120,CAVC351,lee
+CSE,535,19325,Computer Sci Capstone Proj II,TTH,3:00 PM,4:15 PM,TEMPE,130,CAVC351,Ayan
+CSE,543,27374,Computer Sci Capstone Proj II,MW,10:45 AM,12:00 PM,TEMPE,132,COORL1-74,yau
+CSE,545,18810,Computer Sci Capstone Proj II,MW,4:35 PM,5:50 PM,TEMPE,125,COOR174,yau
+CSE,546,21127,Computer Sci Capstone Proj II,TTh,12:00 PM,1:15 PM,TEMPE,125,cavc351,zhao
+CSE,551,23343,Computer Sci Capstone Proj II,tth,7:30 AM,8:45 AM,TEMPE,135,Psh153,sen
+CSE,551,30959,Introduction to Engineering,tth,12:00 PM,1:15 PM,TEMPE,135,PSH153,sen
+CSE,555,27203,Introduction to Engineering,TTh,10:30 AM,11:45 AM,TEMPE,45,CDS234,colbourn
+CSE,564,27211,Grand Challenges for Engrg,MW,12:15 PM,1:30 PM,TEMPE,50,ECGG236,sarjoughian
+CSE,566,11339,Tech; Social; & Sustain System,MW,3:05 PM,4:20 PM,TEMPE,132,CAVC351,collofello
+CSE,571,27252,Topic: Exploring Leadership Potential,TTH,4:30 PM,5:45 PM,TEMPE,130,COORL1-74,Zhang
+CSE,572,25946,Entrepreneur & Value Creation,T,1:30 PM,2:45 PM,TEMPE,130,CAVC351,Ayan
+CSE,572,30961,Topic: Academic Success and Professional Development,Th,1:30 PM,2:45 PM,TEMPE,130,CAVC351,AYAN
+CSE,573,27254,Strategic Enterprise Innovatin,TTh,4:30 PM,5:45 PM,TEMPE,124,CDN68,Davulcu
+CSE,575,27223,Intro Industrial Engineering,MW,3:05 PM,4:20 PM,TEMPE,150,PSH150,Yang
+CSE,576,23382,Business/Industrial Engr,TTh,6:00 PM,7:15 PM,TEMPE,125,CAVC351,chitta baral
+CSE,578,30962,Economic Analys for Engineers,TTh,10:30 AM,11:45 AM,TEMPE,125,COOR L1-20,hsiao
+CSE,591,27953,Seminar,F,10:55 AM,1:40 PM,TEMPE,30,BYENG210,Liang
+CSE,591,27334,Seminar,MW,6:00 PM,7:15 PM,TEMPE,80,COOR120,Yu Zhang
+CSE,591,32123,Seminar,MW,10:45 AM,12:00 PM,TEMPE,45,BYENGM1-11,Fainekos
+CSE,591,16401,Seminar,TTh,1:30 PM,2:45 PM,TEMPE,80,CAVC359,Yang
+CSE,591,18782,Seminar,TTh,3:00 PM,4:15 PM,TEMPE,60,BYAC270,Amor
+FSE,100,27635,Introduction to Engineering,F ,10:45 AM,11:35 AM,TEMPE,80,PSH153,Chen
+FSE,100,83218,Introduction to Engineering,Th ,4:30 PM,5:45 PM,TEMPE,150,BYAC270,Meuth
+FSE,150,82455,Grand Challenges for Engrg,F ,1:30 PM,2:20 PM,TEMPE,132,INTRT,Trowbridge
+FSE,181,79345,Tech; Social; & Sustain System,M ,1:30 PM,2:20 PM,TEMPE,60,BYAC270,Allenby
+FSE,194,90190,Topic: Exploring Leadership Potential,F ,3:00 PM,3:50 PM,TEMPE,150,INTRT,Silva
+FSE,301,87876,Entrepreneur & Value Creation,M W F ,2:00 PM,2:50 PM,TEMPE,128,BYAC270,Troness
+FSE,394,85759,Topic: Academic Success and Professional Development, ,12:00 AM,12:00 AM,TEMPE,80,INTRT,Anderson-Rowland
+FSE,502,92378,Strategic Enterprise Innovatin,M ,6:00 PM,8:45 PM,TEMPE,150,BYAC270,Trappen
+IEE,210,71307,Intro Industrial Engineering,T Th ,9:00 AM,10:15 AM,TEMPE,132,INTRT,Clough
+IEE,220,73291,Business/Industrial Engr,M W ,4:35 PM,5:50 PM,TEMPE,80,BYENGM1-09,Fleischner
+IEE,300,71308,Economic Analys for Engineers,T Th ,3:00 PM,4:15 PM,TEMPE,80,INTRT,Jennings
+IEE,376,71310,Oper Rsrch Det Tech/Apps,T Th ,1:30 PM,2:45 PM,TEMPE,190,BYAC110,Mirchandani
+IEE,380,77308,Prob & Stats Engr Prob Solving,T Th ,4:30 PM,5:45 PM,TEMPE,132,BYENGM1-09,Chattin
+IEE,380,87728,Prob & Stats Engr Prob Solving,T Th ,6:00 PM,7:15 PM,TEMPE,126,-,Bren
+IEE,385,80376,Engr Statistics - Probability,T Th ,6:00 PM,7:15 PM,TEMPE,130,BYAC270,Chattin
+IEE,394,78677,Topic: Extreme Excel, ,6:00 PM,7:15 PM,TEMPE,150,INTRT,McCarville
+IEE,412,80379,Intro to Financial Engineering,M W ,10:45 AM,12:00 PM,TEMPE,69,BYAC150,McCarville
+IEE,426,91345,Operations Rrsch in Healthcare,M W ,4:35 PM,5:50 PM,TEMPE,50,INTRT,Wu
+IEE,431,91929,Engineering Administration, ,6:00 PM,7:15 PM,TEMPE,80,PSH153,Jennings
+IEE,437,71311,Human Factors Engineering,M W ,6:00 PM,7:15 PM,TEMPE,150,BYAC270,Parry
+IEE,454,77730,Risk Management,T Th ,4:30 PM,5:45 PM,TEMPE,132,INTRT,McCarville
+IEE,461,77813,Production Control,M W ,3:05 PM,4:20 PM,TEMPE,60,BYAC270,Chattin
+IEE,470,72508,Stochastic Operations Research,M W F ,2:00 PM,2:50 PM,TEMPE,150,INTRT,Ju
+IEE,474,74270,Quality Control,M W F ,9:40 AM,10:30 AM,TEMPE,128,BYAC270,Li
+IEE,506,91213,Web-Enabled Decn Support Systs,T Th ,1:30 PM,2:45 PM,TEMPE,80,INTRT,Ye
+IEE,511,75531,Analysis of Decision Processes,T Th ,6:00 PM,7:15 PM,TEMPE,150,BYAC270,Mirchandani
+IEE,512,91879,Intro to Financial Engineering,M W ,10:45 AM,12:00 PM,TEMPE,132,INTRT,McCarville
+IEE,520,72692,Stat Learning for Data Mining,T Th ,4:30 PM,5:45 PM,TEMPE,80,BYENGM1-09,Runger
+IEE,526,91346,Operations Rrsch in Healthcare,M W ,4:35 PM,5:50 PM,TEMPE,80,INTRT,Wu
+IEE,545,91992,Simulating Stochastic Systems,M W ,3:05 PM,4:20 PM,TEMPE,190,BYAC110,Staff
+IEE,547,71313,Human Factors Engineering,M W ,6:00 PM,7:15 PM,TEMPE,132,BYENGM1-09,Parry
+IEE,571,92066,Quality Management,T Th ,12:00 PM,1:15 PM,TEMPE,126,-,Jennings
+IEE,572,75775,Design Engineering Experiments,T Th ,9:00 AM,10:15 AM,TEMPE,130,BYAC270,Montgomery
+IEE,573,91770,Reliability Engineering,M W ,9:00 AM,10:15 AM,TEMPE,150,INTRT,Pan

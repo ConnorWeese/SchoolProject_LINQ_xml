@@ -1,0 +1,13 @@
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 8\bin\Debug\netcoreapp3.1\Assignment 8.exe
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 8\bin\Debug\netcoreapp3.1\Assignment 8.deps.json
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 8\bin\Debug\netcoreapp3.1\Assignment 8.runtimeconfig.json
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 8\bin\Debug\netcoreapp3.1\Assignment 8.runtimeconfig.dev.json
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 8\bin\Debug\netcoreapp3.1\Assignment 8.dll
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 8\bin\Debug\netcoreapp3.1\Assignment 8.pdb
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.csprojAssemblyReference.cache
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.csproj.CoreCompileInputs.cache
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.AssemblyInfoInputs.cache
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.AssemblyInfo.cs
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.dll
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.pdb
+C:\Users\Connor\Documents\College Spring 2020\Software Integration\Project 4\Assignment 8\obj\Debug\netcoreapp3.1\Assignment 8.genruntimeconfig.cache
